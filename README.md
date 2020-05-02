@@ -1,24 +1,4 @@
-# example-vue-project
+## About this project
 
-## Project setup
-```
-npm install
-```
+This is a web app made with Vuejs. In this app, a question will be asked to user. User needs to answer the question. I have used eye catching flip animation in this app. Hope everyone will like this.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
